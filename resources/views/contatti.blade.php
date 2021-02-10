@@ -1,5 +1,5 @@
 @extends('layouts.layout')
 
 @section('content')
-  <h1>Sezione home</h1>
+  <h1>Sezione contatti</h1>
 @endsection
